@@ -1,0 +1,8 @@
+[user]
+    name = Joel Miller
+    email = joel.s.miller@gmail.com
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = auto
